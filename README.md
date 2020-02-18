@@ -1,0 +1,2 @@
+# ZPOCObjectEssence
+本Demo主要介绍了OC的对象和类的本质就是一个结构体、NSObject对象的底层结构、一个NSObject对象占用多少内存空间、class_getInstanceSize和malloc_size函数的区别、lldb的常用指令。
